@@ -15,5 +15,6 @@
 - SQL - By HackerRank</br>
 - ReactJs - By Great  Learning</br>
 - Python for Machine Learning - By Great Learning</br>
+- <a href="https://simpli-web.app.link/e/aGe0rzypGGb" target="_blank">Numpy</a> - By Simplilearn
 
 
