@@ -4,7 +4,7 @@
 
 💬 Ask me about Python, PHP , Laravel and Data Structures & Algorithms
 
-🌱 I’m currently learning MERN Stack
+🌱 I’m currently learning Artificial Intelligence
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/reshmakr" target="blank">LinkedIn</a>
 
