@@ -9,11 +9,11 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/reshmakr" target="blank">LinkedIn</a>
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
-- IBM Data Science Professional Certificate
-- Machine Learning with Python - By IBM
-- Angular 7 For Intermediate Level - By Great Learning
-- SQL - By HackerRank
-- ReactJs - By Great  Learning
-- Python for Machine Learning - By Great Learning
+- IBM Data Science Professional Certificate</br>
+- Machine Learning with Python - By IBM</br>
+- Angular 7 For Intermediate Level - By Great Learning</br>
+- SQL - By HackerRank</br>
+- ReactJs - By Great  Learning</br>
+- Python for Machine Learning - By Great Learning</br>
 
 
