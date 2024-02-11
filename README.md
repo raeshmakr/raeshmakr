@@ -15,6 +15,10 @@
 - SQL - By HackerRank</br>
 - ReactJs - By Great  Learning</br>
 - Python for Machine Learning - By Great Learning</br>
-- <a href="https://simpli-web.app.link/e/aGe0rzypGGb" target="_blank">Numpy</a> - By Simplilearn
+- <a href="https://simpli-web.app.link/e/aGe0rzypGGb" target="_blank">Numpy</a> - By Simplilearn</br>
+- Generative AI for Beginners - By Great Learning </br>
+- Introduction to R - By Great Learning </br>
+- Python Pro Bootcamp 2023 - By Udemy </br>
+
 
 
