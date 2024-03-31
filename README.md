@@ -1,4 +1,4 @@
-<h3 align="center">A self-taught Data Science Enthusiast from India </h3>
+<h3 align="center">A self-taught AI/ML Enthusiast from India </h3>
 <h3 align="center"> Fullstack Developer at Salesfokuz</h3><br/>
 
 
