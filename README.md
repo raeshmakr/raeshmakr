@@ -23,6 +23,12 @@
 ### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GORQ API](https://img.shields.io/badge/-GORQ_API-000000?style=flat&logo=api&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
+### Data Processing & Big Data
+ ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)  ![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### Web Scraping
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful_Soup-8B4513?style=flat&logo=python&logoColor=white) ![Web Scraping](https://img.shields.io/badge/-Web_Scraping-2D8CFF?style=flat&logo=python&logoColor=white)
+
 ---
 
 ## 🛠️ About Me
