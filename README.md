@@ -2,7 +2,7 @@
 <h3 align="center"> Fullstack Developer at Salesfokuz</h3><br/>
 
 
-💬 Ask me about Python, PHP , Laravel and Data Structures & Algorithms
+💬 Ask me about Python, PHP , Laravel , Gen AI and Data Structures & Algorithms
 
 🌱 I’m currently learning Artificial Intelligence
 
