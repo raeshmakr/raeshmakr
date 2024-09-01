@@ -5,16 +5,17 @@
 💬 Ask me about Python, PHP , Laravel , Gen AI and Data Structures & Algorithms
 
 🌱 I’m currently learning Artificial Intelligence
-## 🚀 Skills## 🚀 Skills
+## 🚀 Skills
 
 ### Programming Languages
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 
 ### Databases
- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ### AI/ML & NLP
  ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Natural Language Processing (NLP)](https://img.shields.io/badge/-NLP-00599C?style=flat&logo=python&logoColor=white) ![Gen AI](https://img.shields.io/badge/-Gen_AI-000000?style=flat&logo=openai&logoColor=white)  ![RAG](https://img.shields.io/badge/-RAG-2D8CFF?style=flat&logo=python&logoColor=white)  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)  ![LLaMA](https://img.shields.io/badge/-LLaMA-0081CB?style=flat&logo=llama&logoColor=white)  ![Haystack](https://img.shields.io/badge/-Haystack-4B8BBE?style=flat&logo=python&logoColor=white) ![Chainlit Agent](https://img.shields.io/badge/-Chainlit_Agent-FFA500?style=flat&logo=python&logoColor=white)
