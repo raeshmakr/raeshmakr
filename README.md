@@ -1,5 +1,4 @@
 <h3 align="center">A self-taught AI/ML Enthusiast from India </h3>
-<h3 align="center"> Fullstack Developer at Salesfokuz</h3><br/>
 
 
 💬 Ask me about Python, PHP , Laravel , Gen AI and Data Structures & Algorithms
