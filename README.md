@@ -2,7 +2,7 @@
 
 
 💬 Ask me about Python, PHP , Laravel , Gen AI and Data Structures & Algorithms
-
+🧠 Practicing DSA on LeetCode: https://leetcode.com/raeshmakr
 🌱 I’m currently learning Artificial Intelligence
 ## 🚀 Skills
 
